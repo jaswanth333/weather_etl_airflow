@@ -1,4 +1,4 @@
-Instructions to Run Airflow In WSL2
+# Instructions to Run Airflow In WSL2
 
 # Update Packages
 ```
